@@ -1,0 +1,28 @@
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\refint\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\ref\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\bin\Debug\net8.0\DescobrirSeParOuImpar.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\refint\DescobrirSeParOuImpar.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\DescobrirSeParOuImpar.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Trabalho sexta\Exercicio 5\DescobrirSeParOuImpar\obj\Debug\net8.0\ref\DescobrirSeParOuImpar.dll

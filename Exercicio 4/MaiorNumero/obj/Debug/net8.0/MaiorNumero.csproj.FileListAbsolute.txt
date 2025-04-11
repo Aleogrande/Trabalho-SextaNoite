@@ -1,0 +1,14 @@
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\bin\Debug\net8.0\MaiorNumero.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\bin\Debug\net8.0\MaiorNumero.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\bin\Debug\net8.0\MaiorNumero.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\bin\Debug\net8.0\MaiorNumero.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\bin\Debug\net8.0\MaiorNumero.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\refint\MaiorNumero.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\MaiorNumero.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 4\MaiorNumero\obj\Debug\net8.0\ref\MaiorNumero.dll

@@ -1,0 +1,14 @@
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\bin\Debug\net8.0\MediadeNotas.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\bin\Debug\net8.0\MediadeNotas.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\bin\Debug\net8.0\MediadeNotas.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\bin\Debug\net8.0\MediadeNotas.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\bin\Debug\net8.0\MediadeNotas.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\refint\MediadeNotas.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\MediadeNotas.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 3\MediadeNotas\obj\Debug\net8.0\ref\MediadeNotas.dll
