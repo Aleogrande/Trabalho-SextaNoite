@@ -1,0 +1,14 @@
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\bin\Debug\net8.0\CalculandoaIdade.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\bin\Debug\net8.0\CalculandoaIdade.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\bin\Debug\net8.0\CalculandoaIdade.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\bin\Debug\net8.0\CalculandoaIdade.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\bin\Debug\net8.0\CalculandoaIdade.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\refint\CalculandoaIdade.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\CalculandoaIdade.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 2\CalculandoaIdade\obj\Debug\net8.0\ref\CalculandoaIdade.dll
