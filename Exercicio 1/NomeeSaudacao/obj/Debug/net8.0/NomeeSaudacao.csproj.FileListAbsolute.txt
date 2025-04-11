@@ -1,0 +1,14 @@
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\bin\Debug\net8.0\NomeeSaudacao.exe
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\bin\Debug\net8.0\NomeeSaudacao.deps.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\bin\Debug\net8.0\NomeeSaudacao.runtimeconfig.json
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\bin\Debug\net8.0\NomeeSaudacao.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\bin\Debug\net8.0\NomeeSaudacao.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.AssemblyInfoInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.AssemblyInfo.cs
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.csproj.CoreCompileInputs.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\refint\NomeeSaudacao.dll
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.pdb
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\NomeeSaudacao.genruntimeconfig.cache
+C:\Users\HIPOLITOALEXANDRERIB\Downloads\Exercicio 1\NomeeSaudacao\obj\Debug\net8.0\ref\NomeeSaudacao.dll
